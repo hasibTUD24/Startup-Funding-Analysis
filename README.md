@@ -1,4 +1,4 @@
-**Indian Startup Funding Analysis**
+**Startup Funding Analysis**
 **Overview**
 
 This project analyzes Indian startup funding using a cleaned Excel dataset and a Power BI dashboard. The goal is to understand which cities and industries receive the most funding and to highlight overall funding trends.
